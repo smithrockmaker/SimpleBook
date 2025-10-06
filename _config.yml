@@ -11,9 +11,8 @@ only_build_toc_files        : true
 email: bemerson@cocc.edu
 
 repository:
-  url: https://github.com/smithrockmaker/
+  url: https://github.com/smithrockmaker/SimpleBook
   branch: main
-  path_to_book: 
 
 html:
   use_repository_button: true
