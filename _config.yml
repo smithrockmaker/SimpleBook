@@ -1,0 +1,26 @@
+# I have played with a number of these configuration settings and they don't always result
+
+# Book settings
+title                       : OuterSpace 2025  # The title of the book. Will be placed in the left navbar.
+author                      : Bruce Emerson  # The author of the book
+copyright                   : "2025"  # Copyright year to be placed in the footer
+logo                        : "images/logoOrlaCahill.jpg"  # A path to the book logo
+# Auto-exclude files not in the toc
+only_build_toc_files        : true
+
+email: bemerson@cocc.edu
+
+repository:
+  url: https://github.com/smithrockmaker/
+  branch: main
+  path_to_book: 
+
+html:
+  use_repository_button: true
+  extra_navbar: Powered by <a href="https://www.spaghettimonster.org/">His Noodliness</a>  # Will be displayed underneath the left navbar.
+
+html:
+  extra_footer: |
+    <p>
+    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+    </p>

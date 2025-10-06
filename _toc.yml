@@ -1,0 +1,10 @@
+# as of 1/1/22 this is the new format for the toc file.
+format: jb-book
+root: ireland23
+title: ireland23
+parts:
+- caption: Ireland 2023
+  chapters:
+  - file: SekfDrive/SelfDrive
+
+
